@@ -1,5 +1,9 @@
 
 - #### Grafana Training
+
+foo.
+
+
   - ### Track 1: Metrics for all. Build a weather dashboard in half an hour!
   __goal: increase general comfort with the software in an approachable way__
     - Sign up for grafana cloud
@@ -80,4 +84,3 @@
   - Common points:
     - Grafana Panel Library
     - Copy and edit
-
