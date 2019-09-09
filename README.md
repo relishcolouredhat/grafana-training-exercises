@@ -1,8 +1,11 @@
 
-- #### Grafana Training
+- ### Grafana for all workshop!
 
-foo.
+Welcome: NX Week 2019's Grafana workshop!  
 
+Perhaps you've seen some cool dashboads. Perhaps you have not. I assure you, it is
+easier than it ever has been to create live data visualizations. Lets walk through
+getting started!
 
   - ### Track 1: Metrics for all. Build a weather dashboard in half an hour!
   __goal: increase general comfort with the software in an approachable way__
