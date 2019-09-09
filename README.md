@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/relishcolouredhat/grafana-training-exercises/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- #### Grafana Training
+  - ### Track 1: Metrics for all. Build a weather dashboard in half an hour!
+  __goal: increase general comfort with the software in an approachable way__
+    - Sign up for grafana cloud
+      - GitHub
+      - Google
+      - Any Email
+      - temp-mail.org/en
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      0. Get email
+        - temp-mail.org/en or temp-mail.org/fr
+        - copy address
+      1. grafana.com/get - "We Host it" Get your *free* instance now  
+        1.1 Enter Email  
+          - Pick username & password
+          - If you used the disposable email generator & can't think of a password, use h3mpr0p3. It's a terrible password, but for the purpose of this training we don't want to waste time with password resets & etc. If you decide to keep your instance, change the password after. (look of dissaproval)
+          - Confirm Email
+        1.2 OAuth
+        1.3 Canned Training Users
+          - trainingtestuser0.grafana.net
+          - trainingtestuser1.grafana.net
+      2. Choose Instance Name
+          - Do not get contacted about hosted metrics.
+      3. Done! - Follow link to instance!
 
-### Markdown
+      Show around the Instance
+      - Add datasources (later)
+        - darksky api
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      - Add users (cannot in this free version)
+      - Explore plugins
+        -
 
-```markdown
-Syntax highlighted code block
+      1. Navigate to Explore Plugins, add:
+        - clock
+        - darksky api
+        - usgs water
+        - finance (quand - if interested)
 
-# Header 1
-## Header 2
-### Header 3
+      2. DS Config
+        - add usgs water
+        - add dasksky weather
+          - set long and lat
+            - click on spot in google maps
+      3. Add dashboard
+        3.1 Query Editor
+        - Add Query
+        - Find a code
+        - plot
+        - `Add Query` button
+        - `Query Inspector` button - debug
+        - `Built in help`
+        - Naming a series
+        3.2 Visual Options & *bucketing*
+          - Turn on staircase,
+          - First tsdb conceptm *bucketing* the reprentation of real values with the data we have
+            - in this case, we have no options to fill in the blanks (interpolate, to the fancier among us)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+        Exercise 1:
 
-**Bold** and _Italic_ and `Code` text
+        - Plot the temperature of two different streams on one chart
+          - Site 1: 05527000 KANKAKEE RIVER Chicago
+          - Site 2: 05083500 RED RIVER OF THE NORTH AT OSLO, MN
 
-[Link](url) and ![Image](src)
-```
+        Exercise 2:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+        - Use another panel type to show current temperature
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/relishcolouredhat/grafana-training-exercises/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+        -
+        ```
 
-### Support or Contact
+        ```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  - ### Track 2:
+  __goal: build dashboards using panels in the library
+
+  - Common points:
+    - Grafana Panel Library
+    - Copy and edit
+
