@@ -212,7 +212,7 @@ exercise 1.
 
 ---
 #### Exercise 003: Water Temperature Chart.
-- USGS Data source with given configuration
+- USGS Data source with given configuration `01646500`
 - Introduce Visualization Tab
 - Turn on 'staircase'
 - Introduces "bucket" concept
@@ -273,10 +273,13 @@ exercise 1.
 #### Exercise 1xx: Copy a dashboard via JSON
 #### Exercise 1xx: Great Colours from Adobe
 #### Exercise 1xx: Introducing InfluxDB Data Sources using grafana playground
+#### Exercise 1xx: Introducing Template Variables
+#### Exercise 1xx: Embedded Graph Links
 ---
 #### Exercise 2xx: External Datasource Annotations
-#### Exercise 2xx: Break open somebody's dashboard
-#### Exercise 2xx: Break open somebody's dashboard
-#### Exercise 2xx: Break open somebody's dashboard
+#### Exercise 2xx: Autofilling Template Variables
+#### Exercise 2xx: Filter on field values
+#### Exercise 2xx: Convert counter to Rate
 #### Exercise 2xx: Break open somebody's dashboard
 ---
+#### Exercise 3xx:
