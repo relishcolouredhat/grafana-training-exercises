@@ -91,8 +91,10 @@ You'll need a couple of plugins to complete the next exercise. Lets install them
 
 Wow! Look at all these plugins! Let's talk about two types.
 
-- Panel         - Ways to look at data
-- Data Source   - Types of places where data can be pulled from.
+|                |                                                |
+|--              |--                                              |
+| Panel          | Ways to look at data                           |
+| Data Source    | Types of places where data can be pulled from. |
 
 Grafana has several `panel` types pre-installed. It also has `datasources`,
 but none that we can set up in less than 5 minutes!
@@ -114,6 +116,9 @@ Every data source is a little different. The magic of Grafana is that you can
 bring in all these sources into one place - and essentially all the work has
 been abstracted away.
 
+- From the
+---
+---
 
 Show around the Instance
 - Add datasources (later)
