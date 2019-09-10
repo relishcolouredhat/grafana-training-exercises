@@ -88,10 +88,10 @@
 
   Wow! Look at all these plugins! Let's talk about two types.
 
-  |                |                                                |
-  |--              |--                                              |
-  | Panel          | Ways to look at data                           |
-  | Data Source    | Types of places where data can be pulled from. |
+  | Plugin Types    | What it is used for                             |
+  |--               |--                                               |
+  | Panel           | Ways to look at data                            |
+  | Data Source     | Types of places where data can be pulled from.  |
 
   Grafana has several `panel` types pre-installed. It also has `datasources`,
   but none that we can set up in less than 5 minutes!
