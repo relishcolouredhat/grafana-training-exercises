@@ -38,7 +38,7 @@ feel free to **not** use your real email address._
 
 1.1 Go to [grafana.com/get](https://grafana.com/get) & click "Get your *free* instance now"
 
-[[https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG|alt=octocat]]
+![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG)
 
 
 1.2a Enter Email  
@@ -61,27 +61,21 @@ If you are stuck - use one of the following users. The password is listed above 
   - trainingtestuser0.grafana.net
   - trainingtestuser1.grafana.net
 
+1.2 Choose Instance Name
+
+You probably do NOT want to get contacted about hosted metrics.
+
+1.3 Done! - Wait for a link to your instance!
+
+
+
+##### Step 2. Get our bearings
+
+Okay! We should be looking at the `Home Dashboard` right about now.
+
 
 
 ---
-
-  - ### Track 1: Metrics for all. Build a weather dashboard in half an hour!
-  __goal: increase general comfort with the software in an approachable way__
-    - Sign up for grafana cloud
-      - GitHub
-      - Google
-      - Any Email
-      - temp-mail.org/en
-
-      0. Get email
-        - temp-mail.org/en or temp-mail.org/fr
-        - copy address
-
-
-
-      2. Choose Instance Name
-          - Do not get contacted about hosted metrics.
-      3. Done! - Follow link to instance!
 
       Show around the Instance
       - Add datasources (later)
