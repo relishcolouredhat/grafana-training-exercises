@@ -1,3 +1,4 @@
+[[free-instance-button.PNG|alt=octocat]]
 
 - ### Grafana for all workshop!
 
