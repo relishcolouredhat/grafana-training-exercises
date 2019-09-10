@@ -38,20 +38,20 @@
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG)
 
 
-  ##### 1.2a Enter Email  
+##### 1.2a Enter Email  
     - Choose a username & password
     - If you used the disposable email generator & are stuck thinking of a password, use `h3mpr0p3`. It's a *terrible* password, but for the purpose of this training we don't want to waste time with password resets & etc. If you decide to keep your instance, change the password after. (look of dissaproval)
     - Confirm Email
 
     `OR`
 
-  1.2b OAuth
+##### 1.2b OAuth
     - Login using OAuth.
     - (those buttons that say 'login with Google/github')
 
     `OR`
 
-  1.2c Canned Training Users
+##### 1.2c Canned Training Users
 
   If you are stuck - use one of the following users. The password is listed above in 1.1a.
 
@@ -71,12 +71,30 @@
 
   Okay! We should be looking at the `Home Dashboard` right about now.
 
-  Let's start with the most important part: *where to get help.*
+  Let's start with the most important part to keep from getting lost-
+   *How do I get back to where I am?*
+
+  2.1 Going `Home`
+
+  By default, your home dashboard will have some buttons to help you get setup.
+
+  Any dashboard can be your home - but you might want to leave it set as default
+  for now.
+
+  2.1 Finding help
 
   In the bottom left hand corner of the page, there is a `?` icon. Go this way
   for built-in help & keyboard shortcuts.
 
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/grafana-is-starting.PNG)
+
+  You can also just google the questions - the community is great. However, at
+  first, you may have better luck asking somebody in person. It can be hard
+  to know what people call the thing you are trying to do, and the amount of
+  information out there is huge!
+
+
+
 
 ##### Step 3. Add some plugins.
 
@@ -88,7 +106,7 @@
 
   Wow! Look at all these plugins! Let's talk about two types.
 
-  | Plugin Types    | What it is used for                             |
+  | Plugin Type     | What it is used for                             |
   |--               |--                                               |
   | Panel           | Ways to look at data                            |
   | Data Source     | Types of places where data can be pulled from.  |
@@ -113,7 +131,9 @@
   bring in all these sources into one place - and essentially all the work has
   been abstracted away.
 
-- From the
+  - From the 'Home Dashboard',
+
+
 ---
 ---
 
