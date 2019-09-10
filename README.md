@@ -1,4 +1,5 @@
-[[free-instance-button.PNG|alt=octocat]]
+
+[[https://github.com/relishcolouredhat/grafana-training-exercises/blob/master/img/free-instance-button.PNG|alt=octocat]]
 
 - ### Grafana for all workshop!
 
