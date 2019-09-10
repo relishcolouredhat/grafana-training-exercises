@@ -1,5 +1,5 @@
 
-[[https://github.com/relishcolouredhat/grafana-training-exercises/blob/master/img/free-instance-button.PNG|alt=octocat]]
+
 
 - ### Grafana for all workshop!
 
@@ -38,6 +38,7 @@ feel free to **not** use your real email address._
 
 1.1 Go to [grafana.com/get](https://grafana.com/get) & click "Get your *free* instance now"
 
+[[https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG|alt=octocat]]
 
 
 1.2a Enter Email  
