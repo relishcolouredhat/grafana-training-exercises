@@ -27,13 +27,34 @@ feel free to **not** use your real email address._
 ###### If you do NOT want to use your email address:
 
 - Sign up for a temporary email address:
-  - Go to http://temp-mail.org or https://www.guerrillamail.com/
+  - Go to [temp-mail.org](http://temp-mail.org) or [guerrillamail.com](https://www.guerrillamail.com/)
   - Copy `Your Temporary Email Address`
   - Leave the window open - you'll need to come back here to verify at least once.
 
 
 ##### Step 1. [Sign up for Grafana Cloud](https://grafana.com/get)
 
+1.1a Enter Email  
+  - Choose a username & password
+  - If you used the disposable email generator & can't think of a password, use `h3mpr0p3`. It's a terrible password, but for the purpose of this training we don't want to waste time with password resets & etc. If you decide to keep your instance, change the password after. (look of dissaproval)
+  - Confirm Email
+
+  OR
+
+1.2b OAuth
+  - Login using OAuth.
+  - (those buttons that say 'login with Google/github')
+
+  OR
+
+1.3c Canned Training Users
+  - trainingtestuser0.grafana.net
+  - trainingtestuser1.grafana.net
+
+
+
+
+---
 
   - ### Track 1: Metrics for all. Build a weather dashboard in half an hour!
   __goal: increase general comfort with the software in an approachable way__
@@ -49,14 +70,6 @@ feel free to **not** use your real email address._
 
 
 
-        1.1 Enter Email  
-          - Pick username & password
-          - If you used the disposable email generator & can't think of a password, use h3mpr0p3. It's a terrible password, but for the purpose of this training we don't want to waste time with password resets & etc. If you decide to keep your instance, change the password after. (look of dissaproval)
-          - Confirm Email
-        1.2 OAuth
-        1.3 Canned Training Users
-          - trainingtestuser0.grafana.net
-          - trainingtestuser1.grafana.net
       2. Choose Instance Name
           - Do not get contacted about hosted metrics.
       3. Done! - Follow link to instance!
