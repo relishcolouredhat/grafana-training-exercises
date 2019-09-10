@@ -62,11 +62,11 @@
     - trainingtestuser0.grafana.net
     - trainingtestuser1.grafana.net
 
-  1.3 Choose Instance Name
+##### 1.3 Choose Instance Name
 
-  You probably do NOT want to get contacted about hosted metrics.
+  *You probably do NOT want to get contacted about hosted metrics.*
 
-  1.4 Done! - Wait for a link to your instance!
+##### 1.4 Done! - Wait for a link to your instance!
 
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/grafana-is-starting.PNG)
 
