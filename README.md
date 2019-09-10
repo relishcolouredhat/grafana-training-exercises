@@ -235,6 +235,7 @@ exercise 1.
 - Change to singlestat
 - Concept of single value panel
 - Concept of value aggregation
+
 ---
 #### Exercise 006: Weather Graph
 - Multiple Metric per query:
