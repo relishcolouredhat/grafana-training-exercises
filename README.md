@@ -1,7 +1,7 @@
 
 
 
-- ### Grafana for all workshop!
+- # Grafana for all workshop!
 
 Welcome: NX Week 2019's Grafana workshop!  
 
@@ -11,13 +11,13 @@ through getting started!
 
 ---
 
-#### Exercise 1: A Grafana for each and every one of us!
+## Exercise 1: A Grafana for each and every one of us!
 
 The amount of data in a working Grafana instance can be confusing and
 intimidating.  To make things easier to get started, *In this first exercise,
 we will set up a fresh place to work!*
 
-##### Step 0: You're going to need an email address.
+### Step 0: You're going to need an email address.
 
 To complete the exercises, you will need a working email address (you can
   also use oauth for most if you like & know what that is). These
@@ -26,7 +26,7 @@ exercises do not require you to use any *specific* email address.
 _If you don't think you'll ever use your personal Grafana after this training,
 feel free to **not** use your real email address._
 
-###### If you do NOT want to use your email address:
+### If you do NOT want to use your email address:
 
 - Sign up for a temporary email address:
   - Go to [temp-mail.org](http://temp-mail.org) or [guerrillamail.com](https://www.guerrillamail.com/)
@@ -34,7 +34,7 @@ feel free to **not** use your real email address._
   - Leave the window open - you'll need to come back here to verify at least once.
 
 
-##### Step 1. Sign up for Grafana Cloud
+### Step 1. Sign up for Grafana Cloud
 
 1.1 Go to [grafana.com/get](https://grafana.com/get) & click "Get your *free* instance now"
 
@@ -61,11 +61,11 @@ If you are stuck - use one of the following users. The password is listed above 
   - trainingtestuser0.grafana.net
   - trainingtestuser1.grafana.net
 
-1.2 Choose Instance Name
+1.3 Choose Instance Name
 
 You probably do NOT want to get contacted about hosted metrics.
 
-1.3 Done! - Wait for a link to your instance!
+1.4 Done! - Wait for a link to your instance!
 
 ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/grafana-is-starting.PNG)
 
@@ -74,15 +74,39 @@ You probably do NOT want to get contacted about hosted metrics.
 
 Okay! We should be looking at the `Home Dashboard` right about now.
 
-Let's start with the most important part: where to get help.
-
-
-2.1 Where to get more information?
+Let's start with the most important part: *where to get help.*
 
 In the bottom left hand corner of the page, there is a `?` icon. Go this way
 for built-in help & keyboard shortcuts.
 
 ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/grafana-is-starting.PNG)
+
+##### Step 3. Add some plugins.
+
+You'll need a couple of plugins to complete the next exercise. Lets install them.
+
+3.1
+
+
+Show around the Instance
+- Add datasources (later)
+  - darksky api
+
+- Add users (cannot in this free version)
+- Explore plugins
+  -
+
+1. Navigate to Explore Plugins, add:
+  - clock
+  - darksky api
+  - usgs water
+  - finance (quand - if interested)
+
+2. DS Config
+  - add usgs water
+  - add dasksky weather
+    - set long and lat
+      - click on spot in google maps
 
 
 ---
@@ -115,25 +139,6 @@ exercise 1.
 - Copy the JSON of a panel from Ex 6
 - Copy the JSON of a Dashboard from Ex 6
 
-      Show around the Instance
-      - Add datasources (later)
-        - darksky api
-
-      - Add users (cannot in this free version)
-      - Explore plugins
-        -
-
-      1. Navigate to Explore Plugins, add:
-        - clock
-        - darksky api
-        - usgs water
-        - finance (quand - if interested)
-
-      2. DS Config
-        - add usgs water
-        - add dasksky weather
-          - set long and lat
-            - click on spot in google maps
       3. Add dashboard
         3.1 Query Editor
         - Add Query
