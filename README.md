@@ -90,7 +90,7 @@
   In the bottom left hand corner of the page, there is a `?` icon. Go this way
   for built-in help & keyboard shortcuts.
 
-  ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/grafana-is-starting.PNG)
+  ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/where-to-get-grafana-help.PNG)
 
   You can also just google the questions - the community is great. However, at
   first, you may have better luck asking somebody in person. It can be hard
