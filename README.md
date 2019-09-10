@@ -6,6 +6,8 @@
   is easier than it ever has been to create live data visualizations. Lets walk
   through getting started!
 
+  The first exercise has a relatively large amount of step-by-step details
+
 ---
 
 ## Exercise 001: A Grafana for each and every one of us!
