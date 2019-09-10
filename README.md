@@ -33,23 +33,23 @@
 
 ### Step 1. Sign up for Grafana Cloud
 
-  1.1 Go to [grafana.com/get](https://grafana.com/get) & click "Get your *free* instance now"
+  ##### 1.1 Go to [grafana.com/get](https://grafana.com/get) & click "Get your *free* instance now"
 
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG)
 
 
-  1.2a Enter Email  
+  ##### 1.2a Enter Email  
     - Choose a username & password
     - If you used the disposable email generator & are stuck thinking of a password, use `h3mpr0p3`. It's a *terrible* password, but for the purpose of this training we don't want to waste time with password resets & etc. If you decide to keep your instance, change the password after. (look of dissaproval)
     - Confirm Email
 
-    OR
+    `OR`
 
   1.2b OAuth
     - Login using OAuth.
     - (those buttons that say 'login with Google/github')
 
-    OR
+    `OR`
 
   1.2c Canned Training Users
 
