@@ -1,7 +1,5 @@
 # Introduction to Grafana workshop!
 
-  Welcome: NX Week 2019's Grafana hands on workshop!  
-
   Perhaps you've seen some cool dashboads. Perhaps you have not. I assure you, it
   is easier than it ever has been to create live data visualizations. Lets walk
   through getting started!
@@ -35,7 +33,7 @@
 
 ### Step 1. Sign up for Grafana Cloud
 
-##### 1.1 Go to [grafana.com/get](https://grafana.com/get) & click "Get your *free* instance now"
+##### 1.1 Go to [grafana.com/get](https://grafana.com/get) **and** click "Get your *free* instance now"
 
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG)
 
