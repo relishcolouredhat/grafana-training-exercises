@@ -243,6 +243,10 @@ exercise 1.
 
 ---
 #### Exercise 006: Weather Graph
+Goal 
+- Sign up for DarkSky API (if not already done)
+- Configure Dark Sky data source plugin with a lat/lon
+- Create a panel with the temperature at that lat/lon
 - Multiple Metric per query:
   - Make a graph with two or more metrics
     - e.g. UVindex and Temperature
