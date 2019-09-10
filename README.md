@@ -32,11 +32,15 @@ feel free to **not** use your real email address._
   - Leave the window open - you'll need to come back here to verify at least once.
 
 
-##### Step 1. [Sign up for Grafana Cloud](https://grafana.com/get)
+##### Step 1. Sign up for Grafana Cloud
 
-1.1a Enter Email  
+1.1 Go to [grafana.com/get](https://grafana.com/get) & click "Get your *free* instance now"
+
+
+
+1.2a Enter Email  
   - Choose a username & password
-  - If you used the disposable email generator & can't think of a password, use `h3mpr0p3`. It's a terrible password, but for the purpose of this training we don't want to waste time with password resets & etc. If you decide to keep your instance, change the password after. (look of dissaproval)
+  - If you used the disposable email generator & are stuck thinking of a password, use `h3mpr0p3`. It's a *terrible* password, but for the purpose of this training we don't want to waste time with password resets & etc. If you decide to keep your instance, change the password after. (look of dissaproval)
   - Confirm Email
 
   OR
@@ -47,10 +51,12 @@ feel free to **not** use your real email address._
 
   OR
 
-1.3c Canned Training Users
+1.2c Canned Training Users
+
+If you are stuck - use one of the following users. The password is listed above in 1.1a.
+
   - trainingtestuser0.grafana.net
   - trainingtestuser1.grafana.net
-
 
 
 
