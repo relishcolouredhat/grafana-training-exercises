@@ -261,6 +261,9 @@ exercise 1.
 #### Exercise 009: Grafana Annotations
 ---
 #### Exercise 010: Explore Fantastic Dashboards
+- https://grafana.com/blog/2019/05/16/worth-a-look-public-grafana-dashboards/
+
+
 ---
 #### Exercise 101 : Compare GDP Estimates of 3 Countries
 - Finance config for above is `UNAE` `{item}_{country}`
@@ -287,3 +290,5 @@ exercise 1.
 #### Exercise 2xx: Break open somebody's dashboard
 ---
 #### Exercise 3xx:
+#### Exercise 3xx: Where to find Conference Talks
+https://www.grafanacon.org/2019/videos
