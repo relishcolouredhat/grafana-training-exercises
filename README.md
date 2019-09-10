@@ -67,15 +67,53 @@ You probably do NOT want to get contacted about hosted metrics.
 
 1.3 Done! - Wait for a link to your instance!
 
+![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/grafana-is-starting.PNG)
 
 
 ##### Step 2. Get our bearings
 
 Okay! We should be looking at the `Home Dashboard` right about now.
 
+Let's start with the most important part: where to get help.
+
+
+2.1 Where to get more information?
+
+In the bottom left hand corner of the page, there is a `?` icon. Go this way
+for built-in help & keyboard shortcuts.
+
+![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/grafana-is-starting.PNG)
 
 
 ---
+
+##### Step -1:
+
+What did we accomplish in this exercise?
+- Setup personal Free Grafana Cloud Instance
+- Found where to get help
+- Added a plugin to our personal Grafana Cloud
+- Configured a datasource in our personal Grafana Cloud
+
+This is the end of Exercise 1. If you have any questions, now may be a good time
+to write them down - you may find the answers soon (but feel free to ask!)...
+
+If we were doing this training using an on-premise instance, we would skip
+exercise 1.
+
+#### Exercise 2: Hello, Grafana Panels.
+
+---
+
+#### Exercise 3: Water Temperature Chart.
+- The simplest of all charts. CSV data.
+#### Exercise 4:
+#### Exercise 5:
+#### Exercise 6: Something Something Annotations
+#### Exercise 7: Explore Fantastic Dashboards
+#### Exercise 8: Break open somebody's dashboard
+- Copy the JSON of a panel from Ex 6
+- Copy the JSON of a Dashboard from Ex 6
 
       Show around the Instance
       - Add datasources (later)
@@ -126,7 +164,6 @@ Okay! We should be looking at the `Home Dashboard` right about now.
         ```
 
         ```
-
   - ### Track 2:
   __goal: build dashboards using panels in the library
 
