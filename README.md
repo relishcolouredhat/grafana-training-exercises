@@ -57,7 +57,7 @@
 
 ##### 1.2c Canned Training Users
 
-  If you are stuck - use one of the following users. The password is listed above in 1.1a.
+  If you are stuck - use one of the following users. The password is the weak one listed above in 1.2a.
 
     - trainingtestuser0.grafana.net
     - trainingtestuser1.grafana.net
@@ -135,8 +135,55 @@
   bring in all these sources into one place - and essentially all the work has
   been abstracted away.
 
-  - From the 'Home Dashboard',
+  - From the 'Home Dashboard', click `Add data source`
 
+  ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/add-data-source.PNG)
+
+  - Add `Grafana TestData DB`
+
+  This is the most basic DS (data source) of all. It's full of sample data,
+  like "all zeros", or an option for you to paste in csv (excel-ish) data.
+
+  You can name it whatever you wish. After pressing `Save & Test`, you will
+  need to click `Back`
+
+  - Add `Finance`
+
+  `Quandl API Key`?! Nobody signed you up for this!
+
+  Quandl is a service with has a bunch of free (low quality) finance data
+  available - they have a paid service as well, but the free is more than
+  enough to use as a freely available learning tool.
+
+  We will need an api key to use it though. If you have any interest in this
+  data (you walk out of the door with this grafana instance today) please
+  sign up for a key.
+
+  If you will be using this key for the one exercise below and do NOT plan on
+  using your Grafana in the future, you can skil signing up for this one, and:
+
+  For the purpose of these exercises alone - use the following key:
+  `Fpz7iMERpDrwsXo8nw8B`
+
+
+ - Add  `DarkSky`
+
+ This one will require signing up for your own API key. It's 100% free for 1000
+ calls per day. Do not abuse their API, they may be one of the the last free
+ access weather APIs available.
+
+ Go to [darksky.net/dev](http://darksky.net/dev) and press `TRY FOR FREE`.  
+ Use the email address from step 0.
+
+ You will also need a latitude and longitude to get data for. This plugin can
+ be configured many times, one for each location.
+
+ Perhaps you may want to compare the weather between the London and Montreal
+ offices? Perhaps you want to see just how cold Winnipeg is?
+
+ Choose one or more longitude/latitude combinations to use in the next exercise.
+
+###### Tip: 'left click' directly on a google map to get the lat/lon.
 
 ---
 ---
