@@ -207,8 +207,11 @@ exercise 1.
 - Add Panel
   - Introduce Query Editor
   - Introduce Datasource picker
-  - Add csv data to the chart
+    - Pick `TestData DB` (or whatever you named it!)
+  - Select `Scenario` `CSV Metric Values`
+  - Wow! CSV Data in a chart!
 - Save dashboard with comment
+  - Data saved is within the dashboard.
 
 ---
 #### Exercise 003: Water Temperature Chart.
