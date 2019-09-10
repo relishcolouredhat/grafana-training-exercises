@@ -15,15 +15,24 @@ The amount of data in a working Grafana instance can be confusing and
 intimidating.  To make things easier to get started, *In this first exercise,
 we will set up a fresh place to work!*
 
-### Step 0: You're going to need an email address.
+##### Step 0: You're going to need an email address.
 
-To complete the exercises, you will need a working email address. These
+To complete the exercises, you will need a working email address (you can
+  also use oauth for most if you like & know what that is). These
 exercises do not require you to use any *specific* email address.
 
 _If you don't think you'll ever use your personal Grafana after this training,
 feel free to **not** use your real email address._
 
-1. [Sign up for Grafana Cloud](https://grafana.com/get)
+###### If you do NOT want to use your email address:
+
+- Sign up for a temporary email address:
+  - Go to http://temp-mail.org or https://www.guerrillamail.com/
+  - Copy `Your Temporary Email Address`
+  - Leave the window open - you'll need to come back here to verify at least once.
+
+
+##### Step 1. [Sign up for Grafana Cloud](https://grafana.com/get)
 
 
   - ### Track 1: Metrics for all. Build a weather dashboard in half an hour!
