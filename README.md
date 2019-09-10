@@ -26,12 +26,12 @@ exercises do not require you to use any *specific* email address.
 _If you don't think you'll ever use your personal Grafana after this training,
 feel free to **not** use your real email address._
 
-### If you do NOT want to use your email address:
+###### If you do NOT want to use your email address:
 
 - Sign up for a temporary email address:
   - Go to [temp-mail.org](http://temp-mail.org) or [guerrillamail.com](https://www.guerrillamail.com/)
   - Copy `Your Temporary Email Address`
-  - Leave the window open - you'll need to come back here to verify at least once.
+  - Leave the window open - you'll need to come back here to verify at least once.  
 
 
 ### Step 1. Sign up for Grafana Cloud
@@ -85,7 +85,34 @@ for built-in help & keyboard shortcuts.
 
 You'll need a couple of plugins to complete the next exercise. Lets install them.
 
-3.1
+![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/explore-grafana-plugins.PNG)
+
+3.1 Click the `Explore plugin repository` button on the Home Dashboard.
+
+Wow! Look at all these plugins! Let's talk about two types.
+
+- Panel         - Ways to look at data
+- Data Source   - Types of places where data can be pulled from.
+
+Grafana has several `panel` types pre-installed. It also has `datasources`,
+but none that we can set up in less than 5 minutes!
+
+3.2 Install Plugins for the next few exercises
+  - `USGS Water Services`
+  - `DarkSky`
+  - `Finance`
+
+You will need to visit the page for each plugin, and press the `install plugin`
+button. The plugins are installed automatically.
+
+3.3 Configure Datasource instances
+
+Now that we have added these new types of data sources, we still need to
+*configure* the data set.
+
+Every data source is a little different. The magic of Grafana is that you can
+bring in all these sources into one place - and essentially all the work has
+been abstracted away.
 
 
 Show around the Instance
