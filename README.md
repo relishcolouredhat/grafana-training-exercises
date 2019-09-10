@@ -1,6 +1,6 @@
-# Grafana for all workshop!
+# Introduction to Grafana workshop!
 
-  Welcome: NX Week 2019's Grafana workshop!  
+  Welcome: NX Week 2019's Grafana hands on workshop!  
 
   Perhaps you've seen some cool dashboads. Perhaps you have not. I assure you, it
   is easier than it ever has been to create live data visualizations. Lets walk
@@ -202,17 +202,64 @@ exercise 1.
 ---
 
 
-#### Exercise 2: Hello, Grafana Panels.
+#### Exercise 2: Hello, Grafana Dashboards.
+- Add dashboard
+- Add Panel
+  - Introduce Query Editor
+  - Introduce Datasource picker
+  - Add csv data to the chart
+- Save dashboard with comment
 
 ---
-
 #### Exercise 3: Water Temperature Chart.
-- The simplest of all charts. CSV data.
-#### Exercise 4:
-#### Exercise 5:
+- USGS Data source with given configuration
+- Introduce Visualization Tab
+- Turn on 'staircase'
+- Introduces "bucket" concept
+  - Width of 'staircase step' = uncertainty zone
+- Turn on 'points'
+
+
+---
+#### Exercise 4: Two Charts, Two Metrics
+- Clone chart from Ex 3
+- Change to different config
+- Change colour of lines
+- Set Graph Title & Description
+- Introduce concept of 'idosyncracies of data sources'
+  - usgs cannot show two data one one panel
+
+---
+#### Exercise 5: Current Status Panel
+- Clone Panel Again
+- Change to singlestat
+- Concept of single value panel
+- Concept of value aggregation
+---
+#### Exercise 6: Weather Graph
+- Multiple Metric per query:
+  - Make a graph with two or more metrics
+    - e.g. UVindex and Temperature
+- Save as second dashboard for Exercise 7
+
+---
+#### Exercise 7: Weather and Sun
+- Add `Sun and Moon` data source plugin
+- Configure same lat/lon as your weather
+- Use the `--Mixed--` datasource to add a second query
+
+
+---
+#### Exercise 6: Something  Annotations
+---
 #### Exercise 6: Something Something Annotations
+---
 #### Exercise 7: Explore Fantastic Dashboards
+---
 #### Exercise 8: Break open somebody's dashboard
+
+
+
 - Copy the JSON of a panel from Ex 6
 - Copy the JSON of a Dashboard from Ex 6
 
