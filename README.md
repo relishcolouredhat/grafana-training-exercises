@@ -78,14 +78,14 @@
   Let's start with the most important part to keep from getting lost-
    *How do I get back to where I am?*
 
-  2.1 Going `Home`
+##### 2.1 Going `Home`
 
   By default, your home dashboard will have some buttons to help you get setup.
 
   Any dashboard can be your home - but you might want to leave it set as default
   for now.
 
-  2.1 Finding help
+##### 2.1 Finding help
 
   In the bottom left hand corner of the page, there is a `?` icon. Go this way
   for built-in help & keyboard shortcuts.
@@ -106,7 +106,7 @@
 
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/explore-grafana-plugins.PNG)
 
-  3.1 Click the `Explore plugin repository` button on the Home Dashboard.
+##### 3.1 Click the `Explore plugin repository` button on the Home Dashboard.
 
   Wow! Look at all these plugins! Let's talk about two types.
 
@@ -118,7 +118,7 @@
   Grafana has several `panel` types pre-installed. It also has `datasources`,
   but none that we can set up in less than 5 minutes!
 
-  3.2 Install Plugins for the next few exercises
+##### 3.2 Install Plugins for the next few exercises
     - `USGS Water Services`
     - `DarkSky`
     - `Finance`
@@ -126,7 +126,7 @@
   You will need to visit the page for each plugin, and press the `install plugin`
   button. The plugins are installed automatically.
 
-  3.3 Configure Datasource instances
+##### 3.3 Configure Datasource instances
 
   Now that we have added these new types of data sources, we still need to
   *configure* the data set.
