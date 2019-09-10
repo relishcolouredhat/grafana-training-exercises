@@ -33,12 +33,12 @@
 
 ### Step 1. Sign up for Grafana Cloud
 
-##### 1.1 Go to [grafana.com/get](https://grafana.com/get) **and** click "Get your *free* instance now"
+#### 1.1 Go to [grafana.com/get](https://grafana.com/get) **and** click "Get your *free* instance now"
 
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG)
 
 
-##### 1.2a Enter Email  
+#### 1.2a Enter Email  
     - Choose a username & password
     - If you used the disposable email generator & are stuck thinking of a
       password, use `h3mpr0p3`. It's a *terrible* password, but for the purpose
@@ -49,43 +49,43 @@
 
 ##### `OR`
 
-##### 1.2b OAuth
+#### 1.2b OAuth
     - Login using OAuth.
     - (those buttons that say 'login with Google/github')
 
-##### `OR`
+#### `OR`
 
-##### 1.2c Canned Training Users
+#### 1.2c Canned Training Users
 
   If you are stuck - use one of the following users. The password is the weak one listed above in 1.2a.
 
     - trainingtestuser0.grafana.net
     - trainingtestuser1.grafana.net
 
-##### 1.3 Choose Instance Name
+#### 1.3 Choose Instance Name
 
   *You probably do NOT want to get contacted about hosted metrics.*
 
-##### 1.4 Done! - Wait for a link to your instance!
+#### 1.4 Done! - Wait for a link to your instance!
 
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/grafana-is-starting.PNG)
 
 
-##### Step 2. Get our bearings
+#### Step 2. Get our bearings
 
   Okay! We should be looking at the `Home Dashboard` right about now.
 
   Let's start with the most important part to keep from getting lost-
    *How do I get back to where I am?*
 
-##### 2.1 Going `Home`
+#### 2.1 Going `Home`
 
   By default, your home dashboard will have some buttons to help you get setup.
 
   Any dashboard can be your home - but you might want to leave it set as default
   for now.
 
-##### 2.1 Finding help
+#### 2.1 Finding help
 
   In the bottom left hand corner of the page, there is a `?` icon. Go this way
   for built-in help & keyboard shortcuts.
@@ -100,7 +100,7 @@
 
 
 
-##### Step 3. Add some plugins.
+#### Step 3. Add some plugins.
 
   You'll need a couple of plugins to complete the next exercise. Lets install them.
 
