@@ -247,17 +247,29 @@ exercise 1.
 - Add `Sun and Moon` data source plugin
 - Configure same lat/lon as your weather
 - Use the `--Mixed--` datasource to add a second query
+---
+#### Exercise 8: Convert Graph into table format & Export Data
+- Use dashboard from Ex7
+- Export CSV
+  - This works on other panels, but is usually advised to convert to table to 
+  better see what columns will be included.
+
+---
+#### Exercise 9 : Compare GDP Estimates of 3 Countries
+- Finance config for above is `UNAE` `{item}_{country}`
+- https://www.quandl.com/data/UNAE-United-Nations-National-Accounts-Estimates/documentation
+- For example, `Per capita GDP` of `Canada` is `GDPCDPC_CAN`
+- Create a chart comparing the GDP of 3 Countries
 
 
+#### Exercise 10: Dashboard Manager
 ---
-#### Exercise 6: Something  Annotations
 ---
-#### Exercise 6: Something Something Annotations
+#### Exercise 11: Explore Fantastic Dashboards
 ---
-#### Exercise 7: Explore Fantastic Dashboards
----
-#### Exercise 8: Break open somebody's dashboard
+#### Exercise 12: Break open somebody's dashboard
 
+#### Exercise 13: Something Something Annotations
 
 
 - Copy the JSON of a panel from Ex 6
