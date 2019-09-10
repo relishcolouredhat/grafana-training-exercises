@@ -8,7 +8,7 @@
 
 ---
 
-## Exercise 1: A Grafana for each and every one of us!
+## Exercise 001: A Grafana for each and every one of us!
 
   The amount of data in a working Grafana instance can be confusing and
   intimidating.  To make things easier to get started, *In this first exercise,
@@ -185,7 +185,7 @@
 
 ###### Tip: 'left click' directly on a google map to get the lat/lon.
 
-##### Exercise 1 Conclusion:
+##### Exercise 001 Conclusion:
 
 What did we accomplish in this exercise?
 - Setup personal Free Grafana Cloud Instance
@@ -202,7 +202,7 @@ exercise 1.
 ---
 
 
-#### Exercise 2: Hello, Grafana Dashboards.
+#### Exercise 002: Hello, Grafana Dashboards.
 - Add dashboard
 - Add Panel
   - Introduce Query Editor
@@ -211,7 +211,7 @@ exercise 1.
 - Save dashboard with comment
 
 ---
-#### Exercise 3: Water Temperature Chart.
+#### Exercise 003: Water Temperature Chart.
 - USGS Data source with given configuration
 - Introduce Visualization Tab
 - Turn on 'staircase'
@@ -221,7 +221,7 @@ exercise 1.
 
 
 ---
-#### Exercise 4: Two Charts, Two Metrics
+#### Exercise 004: Two Charts, Two Metrics
 - Clone chart from Ex 3
 - Change to different config
 - Change colour of lines
@@ -230,84 +230,53 @@ exercise 1.
   - usgs cannot show two data one one panel
 
 ---
-#### Exercise 5: Current Status Panel
+#### Exercise 005: A Panel to show Current Status.
 - Clone Panel Again
 - Change to singlestat
 - Concept of single value panel
 - Concept of value aggregation
 ---
-#### Exercise 6: Weather Graph
+#### Exercise 006: Weather Graph
 - Multiple Metric per query:
   - Make a graph with two or more metrics
     - e.g. UVindex and Temperature
 - Save as second dashboard for Exercise 7
 
 ---
-#### Exercise 7: Weather and Sun
+#### Exercise 007: Weather and Sun
 - Add `Sun and Moon` data source plugin
 - Configure same lat/lon as your weather
 - Use the `--Mixed--` datasource to add a second query
 ---
-#### Exercise 8: Convert Graph into table format & Export Data
+#### Exercise 008: Convert Graph into table format & Export Data
 - Use dashboard from Ex7
 - Export CSV
-  - This works on other panels, but is usually advised to convert to table to 
+  - This works on other panels, but is usually advised to convert to table to
   better see what columns will be included.
 
+#### Exercise 009: Grafana Annotations
 ---
-#### Exercise 9 : Compare GDP Estimates of 3 Countries
+#### Exercise 010: Explore Fantastic Dashboards
+---
+#### Exercise 101 : Compare GDP Estimates of 3 Countries
 - Finance config for above is `UNAE` `{item}_{country}`
 - https://www.quandl.com/data/UNAE-United-Nations-National-Accounts-Estimates/documentation
 - For example, `Per capita GDP` of `Canada` is `GDPCDPC_CAN`
 - Create a chart comparing the GDP of 3 Countries
-
-
-#### Exercise 10: Dashboard Manager
 ---
+#### Exercise 102: Managing Dashboards with the dashboard Manager
+- Folders
+- Tags
+- Version Reversion
 ---
-#### Exercise 11: Explore Fantastic Dashboards
+#### Exercise 1xx: Copy a panel via JSON
+#### Exercise 1xx: Copy a dashboard via JSON
+#### Exercise 1xx: Great Colours from Adobe
+#### Exercise 1xx: Introducing InfluxDB Data Sources using grafana playground
 ---
-#### Exercise 12: Break open somebody's dashboard
-
-#### Exercise 13: Something Something Annotations
-
-
-- Copy the JSON of a panel from Ex 6
-- Copy the JSON of a Dashboard from Ex 6
-
-      3. Add dashboard
-        3.1 Query Editor
-        - Add Query
-        - Find a code
-        - plot
-        - `Add Query` button
-        - `Query Inspector` button - debug
-        - `Built in help`
-        - Naming a series
-        3.2 Visual Options & *bucketing*
-          - Turn on staircase,
-          - First tsdb conceptm *bucketing* the reprentation of real values with the data we have
-            - in this case, we have no options to fill in the blanks (interpolate, to the fancier among us)
-
-
-        Exercise 1:
-
-        - Plot the temperature of two different streams on one chart
-          - Site 1: 05527000 KANKAKEE RIVER Chicago
-          - Site 2: 05083500 RED RIVER OF THE NORTH AT OSLO, MN
-
-        Exercise 2:
-
-        - Use another panel type to show current temperature
-
-
-        -
-        ```
-
-        ```
-  - ### Track 2:
-  __goal: build dashboards using panels in the library
-
-  - Common points:
-    - Grafana Panel Library
-    - Copy and edit
+#### Exercise 2xx: External Datasource Annotations
+#### Exercise 2xx: Break open somebody's dashboard
+#### Exercise 2xx: Break open somebody's dashboard
+#### Exercise 2xx: Break open somebody's dashboard
+#### Exercise 2xx: Break open somebody's dashboard
+---
