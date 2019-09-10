@@ -33,7 +33,7 @@
 
 ### Step 1. Sign up for Grafana Cloud
 
-  ##### 1.1 Go to [grafana.com/get](https://grafana.com/get) & click "Get your *free* instance now"
+##### 1.1 Go to [grafana.com/get](https://grafana.com/get) & click "Get your *free* instance now"
 
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG)
 
@@ -126,7 +126,7 @@
   You will need to visit the page for each plugin, and press the `install plugin`
   button. The plugins are installed automatically.
 
-##### 3.3 Configure Datasource instances
+##### 3.3.1 Configure Datasource instances
 
   Now that we have added these new types of data sources, we still need to
   *configure* the data set.
@@ -139,7 +139,7 @@
 
   ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/add-data-source.PNG)
 
-  - Add `Grafana TestData DB`
+##### 3.3.2 Add `Grafana TestData DB`
 
   This is the most basic DS (data source) of all. It's full of sample data,
   like "all zeros", or an option for you to paste in csv (excel-ish) data.
@@ -166,7 +166,7 @@
   `Fpz7iMERpDrwsXo8nw8B`
 
 
- - Add  `DarkSky`
+##### 3.3.3 Add  `DarkSky`
 
  This one will require signing up for your own API key. It's 100% free for 1000
  calls per day. Do not abuse their API, they may be one of the the last free
@@ -185,33 +185,7 @@
 
 ###### Tip: 'left click' directly on a google map to get the lat/lon.
 
----
----
-
-Show around the Instance
-- Add datasources (later)
-  - darksky api
-
-- Add users (cannot in this free version)
-- Explore plugins
-  -
-
-1. Navigate to Explore Plugins, add:
-  - clock
-  - darksky api
-  - usgs water
-  - finance (quand - if interested)
-
-2. DS Config
-  - add usgs water
-  - add dasksky weather
-    - set long and lat
-      - click on spot in google maps
-
-
----
-
-##### Step -1:
+##### Exercise 1 Conclusion:
 
 What did we accomplish in this exercise?
 - Setup personal Free Grafana Cloud Instance
@@ -224,6 +198,9 @@ to write them down - you may find the answers soon (but feel free to ask!)...
 
 If we were doing this training using an on-premise instance, we would skip
 exercise 1.
+
+---
+
 
 #### Exercise 2: Hello, Grafana Panels.
 
