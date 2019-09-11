@@ -99,7 +99,6 @@
 
 
 
-
 #### Step 3. Add some plugins.
 
   You'll need a couple of plugins to complete the next exercise. Lets install them.
@@ -241,7 +240,7 @@ exercise 1.
 
 ---
 #### Exercise 006: Weather Graph
-Goal 
+Goal
 - Sign up for DarkSky API (if not already done)
 - Configure Dark Sky data source plugin with a lat/lon
 - Create a panel with the temperature at that lat/lon
