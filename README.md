@@ -1,5 +1,5 @@
 [hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
-[free-instance-button]: https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG (bar)
+[free-instance-button]: https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG "bar"
 
 
 # Introduction to Grafana workshop!
