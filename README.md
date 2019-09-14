@@ -166,7 +166,7 @@
   using your Grafana in the future, you can skil signing up for this one, and:
 
   For the purpose of these exercises alone - use the following key:
-  `Fpz7iMERpDrwsXo8nw8B`
+  <REMOVED>
 
 
 ##### 3.3.3 Add  `DarkSky`
