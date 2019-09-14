@@ -35,7 +35,7 @@
 
 #### 1.1 Go to [grafana.com/get](https://grafana.com/get) **and** click "Get your *free* instance now"
 
-  ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG)
+  [![foo][free-instance-button]]
 
 
 #### 1.2a Enter Email  
@@ -295,3 +295,9 @@ Goal
 #### Exercise 3xx:
 #### Exercise 3xx: Where to find Conference Talks
 https://www.grafanacon.org/2019/videos
+
+
+---
+
+[hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
+[free-instance-button]: https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG (bar)
