@@ -89,7 +89,7 @@
   Any dashboard can be your home - but you might want to leave it set as default
   for now.
 
-#### 2.1 Finding help
+#### 2.2 Finding help
 
   In the bottom left hand corner of the page, there is a `?` icon. Go this way
   for built-in help & keyboard shortcuts.
