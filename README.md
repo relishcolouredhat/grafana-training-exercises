@@ -1,3 +1,7 @@
+[hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
+[free-instance-button]: https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG (bar)
+
+
 # Introduction to Grafana workshop!
 
   Perhaps you've seen some cool dashboads. Perhaps you have not. I assure you, it
@@ -298,6 +302,3 @@ https://www.grafanacon.org/2019/videos
 
 
 ---
-
-[hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
-[free-instance-button]: https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG (bar)
