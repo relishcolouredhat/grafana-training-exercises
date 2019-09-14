@@ -48,7 +48,7 @@
       password, use `h3mpr0p3`. It's a *terrible* password, but for the purpose
       of this training we don't want to waste time with password resets & etc.
       If you decide to keep your instance, change the password after.
-      (look of dissaproval)
+      ಠ_ಠ
     - Confirm Email
 
 ##### `OR`
