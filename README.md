@@ -1,5 +1,5 @@
-[hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
-[free-instance-button]: https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG "bar"
+[get-free-grafana-instance]: https://grafana.com/get
+[free-instance-button]: https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG "Or Just click here I suppose 😒- but you'll need to click another one of these buttons!"
 
 
 # Introduction to Grafana workshop!
@@ -37,9 +37,9 @@
 
 ### Step 1. Sign up for Grafana Cloud
 
-#### 1.1 Go to [grafana.com/get](https://grafana.com/get) **and** click "Get your *free* instance now"
+#### 1.1 Go to [grafana.com/get]() **and** click "Get your *free* instance now"
 
-  [![foo][free-instance-button]]
+  [![foo][free-instance-button]][get-free-grafana-instance]
 
 
 #### 1.2a Enter Email  
