@@ -1,7 +1,3 @@
-[get-free-grafana-instance]: https://grafana.com/get
-[free-instance-button]: https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG "Or Just click here I suppose 😒- but you'll need to click another one of these buttons!"
-
-
 # Introduction to Grafana workshop!
 
   Perhaps you've seen some cool dashboads. Perhaps you have not. I assure you, it
@@ -37,9 +33,9 @@
 
 ### Step 1. Sign up for Grafana Cloud
 
-#### 1.1 Go to [grafana.com/get]() **and** click "Get your *free* instance now"
+#### 1.1 Go to [grafana.com/get](https://grafana.com/get) **and** click "Get your *free* instance now"
 
-  [![foo][free-instance-button]][get-free-grafana-instance]
+  ![](https://raw.githubusercontent.com/relishcolouredhat/grafana-training-exercises/master/free-instance-button.PNG)
 
 
 #### 1.2a Enter Email  
@@ -48,7 +44,7 @@
       password, use `h3mpr0p3`. It's a *terrible* password, but for the purpose
       of this training we don't want to waste time with password resets & etc.
       If you decide to keep your instance, change the password after.
-      ಠ_ಠ
+      (look of dissaproval)
     - Confirm Email
 
 ##### `OR`
@@ -89,7 +85,7 @@
   Any dashboard can be your home - but you might want to leave it set as default
   for now.
 
-#### 2.2 Finding help
+#### 2.1 Finding help
 
   In the bottom left hand corner of the page, there is a `?` icon. Go this way
   for built-in help & keyboard shortcuts.
@@ -166,7 +162,7 @@
   using your Grafana in the future, you can skil signing up for this one, and:
 
   For the purpose of these exercises alone - use the following key:
-  <REMOVED>
+  `Fpz7iMERpDrwsXo8nw8B`
 
 
 ##### 3.3.3 Add  `DarkSky`
@@ -178,8 +174,9 @@
  Go to [darksky.net/dev](http://darksky.net/dev) and press `TRY FOR FREE`.  
  Use the email address from step 0.
 
- You will also need a latitude and longitude to get data for. This plugin can
- be configured many times, one for each location.
+ You will also need to choose a latitude and longitude you will be requesting data for. 
+ 
+ To set multiple locations for DarkSky, 'add the datasource' multiple times,  one for each location.
 
  Perhaps you may want to compare the weather between the London and Montreal
  offices? Perhaps you want to see just how cold Winnipeg is?
@@ -208,6 +205,8 @@ exercise 1.
 #### Exercise 002: Hello, Grafana Dashboards.
 - Add dashboard
 - Add Panel
+  - Use the 'add query button to add panel'
+  
   - Introduce Query Editor
   - Introduce Datasource picker
     - Pick `TestData DB` (or whatever you named it!)
@@ -299,6 +298,3 @@ Goal
 #### Exercise 3xx:
 #### Exercise 3xx: Where to find Conference Talks
 https://www.grafanacon.org/2019/videos
-
-
----
